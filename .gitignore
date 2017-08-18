@@ -16,6 +16,9 @@ local.properties
 .settings/
 .loadpath
 
+# Logo Renders
+Logo Render/
+
 # External tool builders
 .externalToolBuilders/
 
